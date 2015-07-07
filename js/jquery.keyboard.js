@@ -2287,6 +2287,6 @@ $.fn.caret = function( start, end ) {
 	}
 };
 
-return $keyboard;
+return $;
 
 }));
